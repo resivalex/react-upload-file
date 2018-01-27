@@ -2,7 +2,8 @@
  * Created by Warrior! on 2016/10/18.
  */
 
-import React, { PropTypes, Component } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 
 export default class ReactUploadFile extends Component {
